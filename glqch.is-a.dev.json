@@ -2,11 +2,11 @@
     "description": "Describe the use of this subdomain",
     "repo": "https://github.com/joythejoystick1/glqch.github.io",
     "owner": {
-        "username": "<github-username>",
+        "username": "joythejoystick1",
         "email": "email@address",
         "twitter": "<twitter-username>"
     },
     "record": {
-        "CNAME": "glqch.github.io"
+        "CNAME": "joythejoystick1.github.io"
     }
 } 
