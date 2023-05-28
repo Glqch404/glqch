@@ -1,0 +1,22 @@
+{
+    "description": "domain to put my portfolio website online",
+
+    "domain": "is-cool.dev",
+    "subdomain": "glqch.is-cool.dev",
+
+    "owner": {
+        "repo": "https://github.com/joythejoystick1/glqch",
+        "email": "midoayoub447@gmail.com"
+    },
+
+    "record": {
+        "A": ["1.1.1.1", "1.0.0.1"],
+        "AAAA": ["::1", "::2"],
+        "CNAME": "2af8afea-16e6-4242-a9eb-f251017b0c5a.id.repl.co",
+        "MX": ["mx1.example.com", "mx2.example.com"],
+        "NS": ["ns1.example.com", "ns2.example.com"],
+        "TXT": ["replit-verify=2af8afea-16e6-4242-a9eb-f251017b0c5a"]
+    },
+
+    "proxied": false
+}
