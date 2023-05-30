@@ -1,22 +1,19 @@
 {
-    "description": "domain to put my portfolio website online",
+  "$schema": "../schemas/domain.schema.json",
 
-    "domain": "is-cool.dev",
-    "subdomain": "glqch.is-cool.dev",
+  "description": "Project Description",
 
-    "owner": {
-        "repo": "https://github.com/joythejoystick1/glqch",
-        "email": "midoayoub447@gmail.com"
-    },
+  "domain": "is-cool.dev",
+  "subdomain": "glqch",
 
-    "record": {
-        "A": ["1.1.1.1", "1.0.0.1"],
-        "AAAA": ["::1", "::2"],
-        "CNAME": "example",
-        "MX": ["mx1.example.com", "mx2.example.com"],
-        "NS": ["ns1.example.com", "ns2.example.com"],
-        "TXT": ["60809dfbc058efe6a9f54f621ab40d"]
-    },
+  "owner": {
+    "repo": "https://github.com/joythejoystick1/glqch",
+    "email": "bridgerbusiness2@gmail.com
+  },
 
-    "proxied": false
+  "record": 
+    "CNAME": "glqch-production.up.railway.app"
+  },
+
+  "proxy": false
 }
