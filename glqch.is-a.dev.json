@@ -1,0 +1,12 @@
+{
+    "description": "Subdomain to put my portfolio website online",
+    "repo": "https://github.com/joythejoystick1/joythejoystick1.github.io",
+    "owner": {
+        "username": "joythejoystick1",
+        "email": "midoayoub447@gmail.com",
+        "twitter": "glqch"
+    },
+    "record": {
+        "CNAME": "joythejoystick1.github.io"
+    }
+} 
